@@ -108,7 +108,9 @@ h2 {
     text-align: center;
     
 }
-
+.greeting {
+    color: green;
+}
 .columna2 {
     display: flex;
     flex: none;
